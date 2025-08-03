@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vivekrajpoot94/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Array
+|  |
+| ------- |
+| [1950-sign-of-the-product-of-an-array](https://github.com/vivekrajpoot94/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+## Math
+|  |
+| ------- |
+| [1950-sign-of-the-product-of-an-array](https://github.com/vivekrajpoot94/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 <!---LeetCode Topics End-->
