@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vivekrajpoot94/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/vivekrajpoot94/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1392-find-the-difference-of-two-arrays](https://github.com/vivekrajpoot94/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/vivekrajpoot94/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Math
 |  |
