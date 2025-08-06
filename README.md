@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/vivekrajpoot94/leetcode/tree/master/0031-next-permutation) |
 | [0169-majority-element](https://github.com/vivekrajpoot94/leetcode/tree/master/0169-majority-element) |
 | [0952-word-subsets](https://github.com/vivekrajpoot94/leetcode/tree/master/0952-word-subsets) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/vivekrajpoot94/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/vivekrajpoot94/leetcode/tree/master/0031-next-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vivekrajpoot94/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
