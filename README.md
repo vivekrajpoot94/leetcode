@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/vivekrajpoot94/leetcode/tree/master/0031-next-permutation) |
 | [0169-majority-element](https://github.com/vivekrajpoot94/leetcode/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/vivekrajpoot94/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0952-word-subsets](https://github.com/vivekrajpoot94/leetcode/tree/master/0952-word-subsets) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/vivekrajpoot94/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/vivekrajpoot94/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vivekrajpoot94/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/vivekrajpoot94/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
