@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/vivekrajpoot94/leetcode/tree/master/0031-next-permutation) |
+| [0152-maximum-product-subarray](https://github.com/vivekrajpoot94/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/vivekrajpoot94/leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/vivekrajpoot94/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0952-word-subsets](https://github.com/vivekrajpoot94/leetcode/tree/master/0952-word-subsets) |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vivekrajpoot94/leetcode/tree/master/0238-product-of-array-except-self) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/vivekrajpoot94/leetcode/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
